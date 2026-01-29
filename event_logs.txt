@@ -1,0 +1,7 @@
+Type: Fire Outbreak | Location: Riverside | Severity: 9
+Type: Fire Outbreak | Location: Central District | Severity: 2
+Type: Fire Outbreak | Location: Riverside | Severity: 9
+Type: Earthquake | Location: Sector A-1 | Severity: 10
+Type: Fire Outbreak | Location: Riverside | Severity: 4
+Type: Gale | Location: Riverside | Severity: 10
+Type: Earthquake | Location: Riverside | Severity: 3
